@@ -19,7 +19,7 @@ assignees: ''
 
 ## ¿A quién va dirigida?
 
-> ¿Se necesitan conocimientos previos sobre algún tema? ¿Es avanzada? ¿Es una introducción a  una técnologia?
+> ¿Es avanzada? ¿Se necesitan conocimientos previos? ¿O es una charla de introducción a una tecnología?
 
 ## ¿Necesitas algo?
 
