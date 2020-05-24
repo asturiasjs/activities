@@ -1,13 +1,12 @@
 ---
 name: "¿Quieres proponer una charla, taller, hackathon, debate, etc?"
 about: Aquí es donde nos cuentas los detalles.
-title: ''
-labels: 'estado: pendiente'
-assignees: ''
-
+title: ""
+labels: "estado: pendiente"
+assignees: ""
 ---
 
-# Propuesta de charla, taller, hackathon, debate, etc 
+# Propuesta de charla, taller, hackathon, debate, etc
 
 ## Título
 
@@ -16,6 +15,7 @@ assignees: ''
 ## Descripción
 
 > Ayúdanos a conocer más sobre tu propuesta con una pequeña descripción de la misma. Algunos puntos que podría ser interesante tratar aquí son: motivación, alcance, duración de la actividad...
+
 ## ¿A quién va dirigida?
 
 > ¿Es avanzada? ¿Se necesitan conocimientos previos? ¿O es una charla de introducción a una tecnología?
