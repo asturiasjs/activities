@@ -16,6 +16,7 @@ assignees: ""
 
 > Ayúdanos a conocer más sobre tu propuesta con una pequeña descripción de la misma. Algunos puntos que podría ser interesante tratar aquí son: motivación, alcance, duración de la actividad...
 
+
 ## ¿A quién va dirigida?
 
 > ¿Es avanzada? ¿Se necesitan conocimientos previos? ¿O es una charla de introducción a una tecnología?
