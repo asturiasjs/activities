@@ -11,7 +11,7 @@ assignees: ''
 
 ## Título
 
-> Escribe aquí el título de la charla, taller, hackathon, debate, etc 
+> Escribe aquí el título de la actividad
 
 ## Descripción
 
