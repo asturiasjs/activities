@@ -13,10 +13,9 @@ assignees: ''
 
 > Escribe aquí el título de la charla, taller, hackathon, debate, etc 
 
-## Queremos saber más sobre la propuesta
+## Descripción
 
-> Cuentanos sobre tu propuesta, tenemos ganas de saber de que se trata.
-
+> Ayúdanos a conocer más sobre tu propuesta con una pequeña descripción de la misma. Algunos puntos que podría ser interesante tratar aquí son: motivación, alcance, duración de la actividad...
 ## ¿A quién va dirigida?
 
 > ¿Es avanzada? ¿Se necesitan conocimientos previos? ¿O es una charla de introducción a una tecnología?
