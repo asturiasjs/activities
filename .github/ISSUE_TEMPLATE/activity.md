@@ -6,7 +6,7 @@ labels: "estado: pendiente"
 assignees: ""
 ---
 
-# Propuesta de charla, taller, hackathon, debate, etc
+# Propuesta de actividad
 
 ## Título
 
@@ -27,5 +27,7 @@ assignees: ""
 ## Mini bio
 
 > ¡Nos encantaría conocerte mejor! Cuéntanos quién eres, tus experiencias, qué te motiva a hacer la propuesta o cualquier otro detalle que consideres relevante :-)))
+
+---
 
 Antes de presentar tu propuesta no olvides leer y respetar [nuestro Código de Conducta](https://github.com/asturiasjs/activities/blob/master/CODE_OF_CONDUCT.md) y asegurar que tu actividad se ajusta a [nuestros términos y condiciones](https://github.com/asturiasjs/activities/blob/master/TERMS.md).
