@@ -6,7 +6,7 @@ Con el objetivo de crear una comunidad lo más inclusiva posible y limitar al m�
 - Utilizar un lenguaje lo más inclusivo posible (por ejemplo, limitando siempre que sea posible el uso continuado de pronombres masculinos).
 - Mantener una conducta profesional y respetuosa ante los y las asistentes que expresen sus dudas durante el transcurso de la actividad.
 - NO cambiar la orientación de la actividad sin previo aviso a la organización (que deberá tener tiempo para validar el _nuevo_ enfoque).
-- Por defecto, las charlas durarán un máximo de 30 minutos y los talleres, 90 minutos (una hora y media) <sup>1</sup>.
+- Por defecto, las charlas cortas tendrán una duración máxima de 20 minutos, las charlas largas una duración máxima de 40 minutos y los talleres una duración máxima de 90 minutos (una hora y media) <sup>1</sup>.
 
 <sup>1</sup> Desde asturias.js nos adaptamos 100% al contexto de cada charla, pero es necesario llegar a un acuerdo con la organización antes de realizar cambios en alguno de estos puntos.
 
